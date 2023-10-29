@@ -3,7 +3,7 @@
 
 
 ### 👨‍💻  Sobre mim
--   🎓  Sou formado em **Desenvolvimento de Sisteams**.
+-   🎓  Sou formado em **Desenvolvimento de Sistemas**.
 -   🎓  Estou cursando  **Ciência da Computação**.
 -   ☕️  Estudando o Java.
 -   💻  Sou Analista de TI na **Neobpo**.
