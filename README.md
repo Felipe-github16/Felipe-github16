@@ -1,5 +1,5 @@
 # <>Olá eu sou o Felipe ☕️ </>
-<img src="https://media1.tenor.com/images/c87105470d944359146faf6e1b1ca032/tenor.gif?itemid=16468808" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
+<img src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
 
 
 ### 👨‍💻  Sobre mim
