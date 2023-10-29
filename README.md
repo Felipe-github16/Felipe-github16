@@ -1,42 +1,36 @@
-# <>Hello World👋  I'm Mikael Oliveira </>
-<img src="https://cdn.discordapp.com/attachments/701489669673844887/1022665871107293184/Logo_Minimalista_Lord_F_T.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
+# <>Olá eu sou o Felipe ☕️ </>
+<img src="https://media1.tenor.com/images/c87105470d944359146faf6e1b1ca032/tenor.gif?itemid=16468808" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
 
 
-### 👨‍💻  About Me
--   🎓  Graduated in **Analysis and Systems Development**.
--   🎓  Currently Studying  **Computer Science**.
--   😼  Focused on learn new things.
--   💻  I'm a back-end developer at **Noweb Publicidade**.
+### 👨‍💻  Sobre mim
+-   🎓  Sou formado em **Desenvolvimento de Sisteams**.
+-   🎓  Estou cursando  **Ciência da Computação**.
+-   ☕️  Estudando o Java.
+-   💻  Sou Analista de TI na **Neobpo**.
 
-### 📌  My Skills
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![REACT](https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)<br>
-![PHP](https://img.shields.io/badge/PHP-7175aa?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 📌  Minhas Habilidades
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
-### 🌎  Where to find me:
+### 🌎  Onde me encontrar:
 
 
-[discord-invite]:https://discord.com/users/295038299133837313
-[discord-shield]:https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
-[linkedin-invite]:https://www.linkedin.com/in/mikael-oliveira-345a34209/
+[linkedin-invite]:https://www.linkedin.com/in/felipe-vieira-1654611a4/
 [linkedin-shield]:https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[ ![discord-shield][] ][discord-invite]
 [ ![linkedin-shield][] ][linkedin-invite]
 
  
-## Statistics・🧙‍♂️
+## Métricas・🧙‍♂️
 
 <p align = "center">
-  <a href="https://github.com/LordBluue3"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordBluue3&layout=compact&hide_title=false&theme=github_dark"/></a> 
-  <a href="https://github.com/LordBluue3"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=LordBluue3&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="LordBluue3"/></a>
+  <a href="https://github.com/Felipe-github16"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-github16&layout=compact&hide_title=false&theme=github_dark"/></a> 
+  <a href="https://github.com/Felipe-github16"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-github16&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Felipe-github16"/></a>
 </p> 
 
