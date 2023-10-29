@@ -1,5 +1,5 @@
 # <>Olá eu sou o Felipe ☕️ </>
-<img src="https://raw.githubusercontent.com/Deathopex/Deathopex/main/java.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
+<img src="https://media2.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif?cid=6c09b952v0fu8o2n514fm15jlcpc4q9v46qlmt2q0mwxmeey&ep=v1_stickers_related&rid=giphy.gif&ct=s" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
 
 
 ### 👨‍💻  Sobre mim
