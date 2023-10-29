@@ -30,7 +30,7 @@
 ## Métricas・🧙‍♂️
 
 <p align = "center">
-  <a href="https://github.com/Felipe-github16"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-github16&layout=compact&hide_title=false&theme=github_dark"/></a> 
-  <a href="https://github.com/Felipe-github16"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-github16&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Felipe-github16"/></a>
+  <a href="https://github.com/Felipe-github16"><img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-github16&layout=compact&hide_title=false&theme=github_dark"/></a> 
+  <a href="https://github.com/Felipe-github16"><img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Felipe-github16&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></a>
 </p> 
 
