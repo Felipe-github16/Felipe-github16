@@ -1,5 +1,5 @@
 # <>Olá eu sou o Felipe ☕️ </>
-<img src="https://assets-v2.lottiefiles.com/a/62e02bc6-116f-11ee-aeb0-077c335b3c67/XpwfUikILP.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
+<img src="https://camo.githubusercontent.com/b24914711d892af6d10c99624bb0fa576a0611ae17eb125380c517b2059063a4/68747470733a2f2f6e657861782e696e2f77702d636f6e74656e742f75706c6f6164732f323032302f31312f6a6176612d312e676966" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
 
 
 ### 👨‍💻  Sobre mim
