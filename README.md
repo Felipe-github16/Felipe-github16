@@ -1,5 +1,5 @@
 # <>Olá eu sou o Felipe ☕️ </>
-<img src="https://camo.githubusercontent.com/b24914711d892af6d10c99624bb0fa576a0611ae17eb125380c517b2059063a4/68747470733a2f2f6e657861782e696e2f77702d636f6e74656e742f75706c6f6164732f323032302f31312f6a6176612d312e676966" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
+<img src="https://media0.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=6c09b952es11kyj5kfyoq6f1fmsvtf80rmhorowzflgr3n9z&ep=v1_gifs_search&rid=giphy.gif&ct=g" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
 
 
 ### 👨‍💻  Sobre mim
