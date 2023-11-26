@@ -1,4 +1,4 @@
-# <>Olá eu sou o Felipe ☕️ </>
+# <>Olá eu sou o Felipe ☕️</>
 <img src="https://media0.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=6c09b952es11kyj5kfyoq6f1fmsvtf80rmhorowzflgr3n9z&ep=v1_gifs_search&rid=giphy.gif&ct=g" min-width="300px" max-width="300px" width="300px" align="right" alt="Computer">
 
 
