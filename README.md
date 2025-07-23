@@ -7,7 +7,7 @@
 -   🎓  Estou cursando  **Ciência da Computação**.
 -   ☕️  Estudando o Java.
 -   💻  Experiência como Analista de TI Pleno na **Neobpo**.
--   💻  Experiência como Analista de TI IoT Pleno na **Globalthings**.
+-   💻  Experiência como Analista IoT Pleno na **Globalthings**.
 
 ### 📌  Minhas Habilidades
 
