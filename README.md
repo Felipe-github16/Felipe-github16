@@ -5,7 +5,7 @@
 ### 👨‍💻  Sobre mim
 -   🎓  Sou formado em **Desenvolvimento de Sistemas**.
 -   🎓  Estou cursando  **Ciência da Computação**.
--   ☕️  Estudando o Java.
+-   ☕️  Estudando o Stripe, Next.js, Django, TypeScript, React, Tailwind e Shadcn UI!.
 -   💻  Experiência como Analista de TI Pleno na **Neobpo**.
 -   💻  Atuando como Analista IoT Pleno na **Globalthings**.
 
